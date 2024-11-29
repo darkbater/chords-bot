@@ -49,9 +49,6 @@ function chordsHTMLBolder(text) {
 /**Перехватчик api */
 /**Перехват комманд (текста) */
 chords_bot.on('text', async data => {
-
-			// console.log(data);
-
 			const text = data.text
 			/// Проверка на команды
 
@@ -62,54 +59,41 @@ chords_bot.on('text', async data => {
 			/// Проверка на upset
 			/// 1-> >1 строки 2-> пытаемся парсить первую строку
 			/// 1->
-			// const ml  = /[nr]/.test(text);
-			// if (ml) console.log(">1 строки");
 
-			// const ml  = ;
 			/// Если пришёл текст длиннее одной строки
 			if (/[\n\r]/.test(text)){
 				// console.log("		Ентеры")
 				console.log(">1  строки (nc)");
 				/// Парсим первую строку, в поисках названия песни и группы
-				// const rxSongGroup = /^(.*?)(r?n|$)([sS]*)/;
-				// const match = rxSongGroup.exec(text);
-
-				// const regex = /^([\d\t\s\w]+)\*([\w\t\s\w]+)[\r?\n]([\t\w\t\r\n\d]+)+$/;
-				// const regex =  /^([^\r\n]*)(?:\r?\n([\s\S]*))?$/;
-				// /^([^*]+)*([^rn]*)r?n([sS]*)$/
-
-				/// Если это заголовок и текст
 				const regex =  /^(:?([^\r\n]*)\*([^\r\n]*))(?:\r?\n([\s\S]*))?[\r\n]*$/;
     			const match = text.match(regex);
+				/// Если это заголовок и текст
 				if (match) {
 					console.log("Заголовок и текст");
 					console.log(match);
+					chords.upset(match[2],match[3], match[4]);
+
 					return;
-					// Если совпадение найдено, извлекаем первую строку и оставшийся текст
-					// const firstLine = match[1]; // Первая строка
-					// const restOfText = match[2].trim(); // Остальной текст (убираем лишние пробелы)
-					// console.log(firstLine);
-					// console.log(restOfText);
-					// return {
-						// 	firstLine,
-						// 	restOfText
-					// };
-				}// else {console.log("НЕД")};
+				}
+				
 			
 			/// Если строка одна
 			} else {
 				console.log("1  строка");
 				
 				/// Проверяем не запрос ли на редактирование
-				const regex =  /^(:?([^\r\n]*)\*([^\r\n]*))[\r\n]*$/;
-    			const match = text.match(regex);
+				const rxEdit =  /^(:?([^\r\n]*)\*([^\r\n]*))[\r\n]*$/;
+    			const match = text.match(rxEdit);
 				if (match) {
 					console.log("Запрос на редактирование");
 					return;
 
 					}
-
-			}
+				/// Проверяем не пришла ли команда.
+				if (/^[\w\d_]*$/.test(text)){
+					console.log("комманда!");
+					}
+				}
 
 			// then
 
