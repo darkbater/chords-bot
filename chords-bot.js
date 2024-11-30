@@ -8,7 +8,10 @@
 console.log('start');
 
 const tbot = require('node-telegram-bot-api');
+// true
 const token = "7993252916:AAHtL7zoT9D9GnycnUZe_wW1sBzCYEX1Nuo"
+// test
+// const token = "7556693722:AAGBc0AM4LqbPorZw7TpUAodXmJTHfYxC2k"
 
 const jimp = require("jimp");
 process.env["NTBA_FIX_350"] = 1;
@@ -130,22 +133,22 @@ chords_bot.on('text', async data => {
 chords_bot.on('callback_query', async data => {
 		console.log("Коллбек от кнопки")
 		console.log(data)
+
+		/// Если это запрос текста песни
 		const match_song=data.data.match(/^song_(\d*)$/)
 		if (match_song){
 			const song_number = match_song[1];
 			console.log('ПЕСНЯ')
 			console.log(song_number)
 			chords.song(data.from.id, song_number)
-
 			}
-		/// Пришел запрос на песню:
 
 
 
-		// get_song_{int}
+		// get_songs_{int}
 		// Получаем станицу песен
 		
-		// get_gong_{char}
+		// get_songs_{char}
 		// Получаем станицу песен по первой букве
 
 		})//callback_query
