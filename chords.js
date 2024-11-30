@@ -9,7 +9,7 @@ class Chords {
 		console.log("upset",text);
 		const sql = `INSERT INTO songs (song_name, group_name, song_text)
 						VALUES ('${song}', '${group}', '${text}')
-						ON CONFLICT (group_name)
+						ON CONFLICT (song_name, group_name)
 						DO UPDATE SET
     					song_text = EXCLUDED.song_text`;
 		console.log(sql)

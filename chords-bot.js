@@ -9,9 +9,9 @@ console.log('start');
 
 const tbot = require('node-telegram-bot-api');
 // true
-const token = "7993252916:AAHtL7zoT9D9GnycnUZe_wW1sBzCYEX1Nuo"
+// const token = "7993252916:AAHtL7zoT9D9GnycnUZe_wW1sBzCYEX1Nuo"
 // test
-// const token = "7556693722:AAGBc0AM4LqbPorZw7TpUAodXmJTHfYxC2k"
+const token = "7556693722:AAGBc0AM4LqbPorZw7TpUAodXmJTHfYxC2k"
 
 const jimp = require("jimp");
 process.env["NTBA_FIX_350"] = 1;
@@ -141,6 +141,15 @@ chords_bot.on('callback_query', async data => {
 			console.log('ПЕСНЯ')
 			console.log(song_number)
 			chords.song(data.from.id, song_number)
+			}
+
+		/// Если запрос на исходник, для редактирования песни
+		const match_edit=data.data.match(/^edit_(\d*)$/)
+		if (match_edit){
+			const edit_number = match_edit[1];
+			console.log('ПЕСНЯ')
+			console.log(edit_number)
+			chords.edit(data.from.id, edit_number)
 			}
 
 
