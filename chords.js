@@ -18,17 +18,90 @@ class Chords {
 				console.log(result);
 			// console.log(err);
 			});
-		// console.log('query res',res)
-		// res.then(()=>{console.log('cb!!!!')})
 		
 		console.log('returned')
 	}
 
-	list(){
+	list(chat){
+		this.pg.query('SELECT id, song_name, group_name FROM songs', (err, res)=>{
+			if(err) {
+				console.error('Error connecting to the database', err.stack);
+			  } else {
+				  var items = []
+				  res.rows.forEach((item,i)=>{
+					  console.log(i,item)
+					  items.push([{text:item.song_name+"("+item.group_name+")", callback_data:"song_"+item.id}])
+					  })
+				  // console.log(items)
+				  const opts = {
+					  reply_markup: {
+						  inline_keyboard: 
+						  items
+						  
+					  }
+				  };
+				console.log(chat+'<<<<<!');
+				this.cb.sendMessage(chat, 'Выберите песню:', opts);
+				//   tbot.send(opts)
+			  }
 
+			})
 	}
 
-	song(){
+	//	Вывод песни
+	song(chat, song_id){
+		console.log(chat,song_id)
+		this.pg.query(`SELECT id, song_name, group_name, song_text FROM songs where id='${song_id}'`, (err, res)=>{
+			if(err) {
+				console.error('Error connecting to the database', err.stack);
+			} else {
+				console.log(res)
+				this.cb.sendMessage(chat, '<pre>\n'+res.rows[0].song_text+'</pre>', {parse_mode: "HTML"})
+				// if( !( data = fs.readFileSync("hello.txt"))){
+					// console.log('Такого html ещё нет')
+					// }
+
+				try {
+
+					if (this.fs.existsSync("songs/"+song_id+".html")){
+						console.log("!!!!!!!");
+					}
+					else{
+						const text = this.fs.readFileSync("songs/"+song_id+".html");
+						console.log(text);
+
+					}
+					
+				} catch (error) {
+					console.log(error)
+					
+				}
+
+				// console.log("Есть html " + "songs/"+song_id+".html");
+					// chords_bot.sendDocument(data.message.chat.id, song_id+".html");
+				// } else console.log("Нет html " + "songs/"+song_id+".html");
+
+
+				// chords_bot.sendDocument(data.message.chat.id, "doc.pdf");
+				//   this.cb.sendMessage(chat, song_id)
+
+			}
+		});
+	}
+	//	Вывод песни с подсветкой, без точности
+	song_marked(chat, song_id){
+		console.log(chat,song_id)
+		this.pg.query(`SELECT id, song_name, group_name, song_text FROM songs where id='${song_id}'`, (err, res)=>{
+			if(err) {
+				console.error('Error connecting to the database', err.stack);
+			} else {
+				console.log(res)
+				this.cb.sendMessage(chat, '<pre>\n'+res.rows[0].song_text+'</pre>', {parse_mode: "HTML"})
+				//   this.cb.sendMessage(chat, song_id)
+
+			}
+		});
+		
 
 	}
 
@@ -45,10 +118,11 @@ class Chords {
 	// }
 	
 	
-	constructor(parameters) {
-		this.pg = 
-
-
+	constructor(cb) {
+		// this.pg = 
+		this.cb=cb;
+		// this.fs=new ;
+		this.fs=require('fs')
 
 // Подключение postger
 	this.pg=new Pool({

@@ -5,10 +5,6 @@
  * 
  */
 
-// Класс приложения
-const Chords = require('./chords');
-const chords = new Chords();
-
 console.log('start');
 
 const tbot = require('node-telegram-bot-api');
@@ -17,6 +13,13 @@ const token = "7993252916:AAHtL7zoT9D9GnycnUZe_wW1sBzCYEX1Nuo"
 const jimp = require("jimp");
 process.env["NTBA_FIX_350"] = 1;
 const chords_bot = new tbot(token, {  polling: {autoStart: true,interval: 1000,} });
+
+// Класс приложения
+const Chords = require('./chords');
+const chords = new Chords(chords_bot);
+
+const fs = require("fs");
+
 
 /**
  * chordsHTMLBolder
@@ -89,9 +92,28 @@ chords_bot.on('text', async data => {
 					return;
 
 					}
+
 				/// Проверяем не пришла ли команда.
-				if (/^[\w\d_]*$/.test(text)){
+				if (/^[\w\d_/]*$/.test(text)){
 					console.log("комманда!");
+					/// Коммутатор комманд
+					switch (true) {
+						/// Полный писок песен
+						case text == '/list':
+							console.log('/list !!!')
+
+							const list = chords.list(data.chat.id)
+
+					
+							break;
+						default:
+							break;
+					}
+
+
+
+
+
 					}
 				}
 
@@ -106,6 +128,20 @@ chords_bot.on('text', async data => {
 
 /**Перехват колбеков от кнопок */
 chords_bot.on('callback_query', async data => {
+		console.log("Коллбек от кнопки")
+		console.log(data)
+		const match_song=data.data.match(/^song_(\d*)$/)
+		if (match_song){
+			const song_number = match_song[1];
+			console.log('ПЕСНЯ')
+			console.log(song_number)
+			chords.song(data.from.id, song_number)
+
+			}
+		/// Пришел запрос на песню:
+
+
+
 		// get_song_{int}
 		// Получаем станицу песен
 		
