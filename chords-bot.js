@@ -28,35 +28,6 @@ const logger = new Logger(token_observer);
 
 const fs = require("fs");
 
-
-/**
- * chordsHTMLBolder
- * @param {text} 
- * @returns text
- * Подсветка аккордов для экспорта в html
- */
-function chordsHTMLBolder(text) {
-	let markedText="a"
-	const lines= text.split("\n");
-	// const Pattern = /[0-9]/i;
-	for (let line of lines){
-		if (/[а-я]/.test(line)) {
-			logger.log('Есть русские:'+line)
-			markedText += line + "\n"
-			}
-		else{
-			if (line.length>1) markedText += "<b>"+line+"</b>\n";
-				else markedText +="\n"
-			// logger.log('aaaqaaa')
-			logger.log('Нет русских:'+ line);
-		}
-		// logger.log()
-		}
-	return markedText;
-}
-
-
-
 /**Перехватчик api */
 /**Перехват комманд (текста) */
 chords_bot.on('text', async data => {
@@ -134,21 +105,39 @@ chords_bot.on('callback_query', async data => {
 		logger.log("Коллбек от кнопки")
 		logger.log(data)
 
+		/// Если это запрос исходника документа
+		const match_edit_song=data.data.match(/^song_edit_(\d*)$/)
+		if (match_edit_song){
+			const song_number = match_edit_song[1];
+			logger.log('исходник!!!!!!!!!!!')
+			// logger.log(song_number)
+			chords.edit(data.from.id, song_number)
+		}
+		/// Если это запрос html документа
+		const match_html_song=data.data.match(/^song_html_(\d*)$/)
+		if (match_html_song){
+			const song_number = match_html_song[1];
+			// logger.log('Документ!!!!!!!!!!!')
+			// logger.log(song_number)
+			chords.html(data.from.id, song_number)
+		}
+		
 		/// Если это запрос текста песни
 		const match_song=data.data.match(/^song_(\d*)$/)
 		if (match_song){
 			const song_number = match_song[1];
-			logger.log('ПЕСНЯ')
-			logger.log(song_number)
+			// logger.log('ПЕСНЯ')
+			// logger.log(song_number)
 			chords.song(data.from.id, song_number)
+			// chords.html(data.from.id, song_number)
 			}
 
 		/// Если запрос на исходник, для редактирования песни
 		const match_edit=data.data.match(/^edit_(\d*)$/)
 		if (match_edit){
 			const edit_number = match_edit[1];
-			logger.log('ПЕСНЯ')
-			logger.log(edit_number)
+			// logger.log('ПЕСНЯ')
+			// logger.log(edit_number)
 			chords.edit(data.from.id, edit_number)
 			}
 
@@ -171,13 +160,13 @@ chords_bot.on('callback_query', async data => {
 
 // Логирование неотловленных исключений, посредстом прослушивания
 // событий uncaughtException и unhandledRejection.
-process.on('uncaughtException', (err) => {
-     logger.error("uncaughtException:",err);
-     process.exit(1);
-     });
-process.on('unhandledRejection', (err) => {
-     logger.error("unhandledRejection:",err);
-     process.exit(1);
-     });
+// process.on('uncaughtException', (err) => {
+//      logger.error("uncaughtException:",err);
+//      process.exit(1);
+//      });
+// process.on('unhandledRejection', (err) => {
+//      logger.error("unhandledRejection:",err);
+//      process.exit(1);
+//      });
 
 logger.log('started');
