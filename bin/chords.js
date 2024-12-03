@@ -141,20 +141,77 @@ class Chords {
 	}
 
 	list(chat){
-		this.pg.query('SELECT id, song_name, group_name FROM songs', (err, res)=>{
+		this.pg.query('SELECT id, song_name, group_name FROM songs ORDER BY song_name', (err, res)=>{
 			if(err) {
 				console.error('Error connecting to the database', err.stack);
 			  } else {
 				  var items = []
 				  res.rows.forEach((item,i)=>{
+						// console.log(item);
+						//   this.log.log(i,item)
+						items.push([{text:item.song_name+"("+item.group_name+")", callback_data:"song_"+item.id}])
+					})
+					// console.log(items)
+					const opts = {
+						reply_markup: {
+						  inline_keyboard: items
+						  
+					  }
+				  };
+						  console.log(items);
+				// this.log.log(chat+'<<<<<!');
+				this.cb.sendMessage(chat, 'Выберите песню:', opts);
+				//   tbot.send(opts)
+			  }
+
+			})
+	}
+	group(chat, group_name){
+
+		console.log(group_name);
+
+		// return;
+		this.pg.query(`SELECT id, song_name FROM songs WHERE group_name='${group_name}' ORDER BY song_name`, (err, res)=>{
+			if(err) {
+				console.error('Error connecting to the database', err.stack);
+			  } else {
+				  var items = []
+				  res.rows.forEach((item,i)=>{
+						// console.log(item);
+						//   this.log.log(i,item)
+						items.push([{text:item.song_name, callback_data:"song_"+item.id}])
+					})
+					// console.log(items)
+					const opts = {
+						reply_markup: {
+						  inline_keyboard: items
+						  
+					  }
+				  };
+						  console.log(items);
+				// this.log.log(chat+'<<<<<!');
+				this.cb.sendMessage(chat, 'Выберите песню:', opts);
+				//   tbot.send(opts)
+			  }
+
+			})
+	}
+
+	groups(chat){
+		this.pg.query('SELECT DISTINCT group_name FROM songs ORDER BY group_name', (err, res)=>{
+			if(err) {
+				console.error('Error connecting to the database', err.stack);
+			  } else {
+				  var items = []
+				  res.rows.forEach((item,i)=>{
+						// console.log(item);
 					//   this.log.log(i,item)
-					  items.push([{text:item.song_name+"("+item.group_name+")", callback_data:"song_"+item.id}])
+					  items.push([{text:item.group_name, callback_data:"group_"+Buffer.from(item.group_name).toString('base64')}])
 					  })
-				  // this.log.log(items)
+				console.log(items)
 				  const opts = {
 					  reply_markup: {
-						  inline_keyboard: 
-						  items
+						  inline_keyboard: items
 						  
 					  }
 				  };

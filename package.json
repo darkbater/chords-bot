@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jimp": "^1.6.0",
+    "node-telegram-bot-api": "^0.66.0",
     "pg": "^8.13.1",
     "pm2": "^5.4.3"
   }

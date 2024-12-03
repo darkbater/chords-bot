@@ -1,0 +1,831 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="E1aOz_OCNNKSFYJLTuQA">
+    <mxGraphModel dx="2257" dy="3192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-142" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="815" y="160" width="760" height="785" as="geometry">
+            <mxRectangle x="90" y="450" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-143" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-145" target="ElJob3rPs2nKZKBBOf4i-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-145" target="ElJob3rPs2nKZKBBOf4i-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Organization&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" treeRoot="1" id="ElJob3rPs2nKZKBBOf4i-145">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-146" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-147" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-148" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="ElJob3rPs2nKZKBBOf4i-150" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-149" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="ElJob3rPs2nKZKBBOf4i-151" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-150" value="Sub Section" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="100" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-151" value="Sub Section" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="220" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-153" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="531" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-154" target="ElJob3rPs2nKZKBBOf4i-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-154" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="370" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-153" target="ElJob3rPs2nKZKBBOf4i-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-157" value="Получение списка песен&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Генератор клавиатура, алфавит+пагинатор&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;verticalAlign=top;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry x="560" y="275" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ElJob3rPs2nKZKBBOf4i-142" source="ElJob3rPs2nKZKBBOf4i-158" target="ElJob3rPs2nKZKBBOf4i-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-158" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry y="425" width="180" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-159" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-160" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-159">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-161" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-159">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-162" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-163" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-162">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-164" value="Row 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-162">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-165" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-166" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-165">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-167" value="Row 2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-165">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-168" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-169" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-168">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-170" value="Row" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-168">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-171" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-172" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-171">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-173" value="Row" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-171">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-174" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-175" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-174">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-176" value="Row" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-174">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-177" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-178" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-177">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-179" value="Row" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-177">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-180" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-181" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-180">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-182" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-180">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-183" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-184" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-183">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-185" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-183">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-186" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-158">
+          <mxGeometry y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-187" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-186">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-188" value="Row 3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-186">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" target="ElJob3rPs2nKZKBBOf4i-281" source="ElJob3rPs2nKZKBBOf4i-145" parent="ElJob3rPs2nKZKBBOf4i-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1346" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Organization" treeRoot="1" id="ElJob3rPs2nKZKBBOf4i-281">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="ElJob3rPs2nKZKBBOf4i-142">
+            <mxGeometry x="-80" y="210" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-152" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="868" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-193" target="ElJob3rPs2nKZKBBOf4i-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="-502.5" />
+              <mxPoint x="220" y="-392.5" />
+              <mxPoint x="350" y="-392.5" />
+              <mxPoint x="350" y="-187.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-193" value="list" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-522.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-194" target="ElJob3rPs2nKZKBBOf4i-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-194" target="ElJob3rPs2nKZKBBOf4i-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d80073;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-194" target="ElJob3rPs2nKZKBBOf4i-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#d80073;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-194" target="ElJob3rPs2nKZKBBOf4i-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-194" value="song_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-212.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-195" value="Ползователь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="-1050" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-196" value="Группы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-197" value="Текстовый п&lt;span style=&quot;background-color: initial;&quot;&gt;оиск&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="-725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-198" value="Алфавитный указалль групп" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-199" value="Постраничное&lt;div&gt;листание списка&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="-505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-200" value="Закладки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="-725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-201" value="Песни" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="-725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-202" value="Алфавитный указалль песен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-203" value="Постраничное&lt;div&gt;листание списка&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="-505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-204" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.575;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-195" target="ElJob3rPs2nKZKBBOf4i-196">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="-490" as="sourcePoint" />
+            <mxPoint x="2120" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-205" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-195" target="ElJob3rPs2nKZKBBOf4i-200">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="-490" as="sourcePoint" />
+            <mxPoint x="2120" y="-540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2490" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-206" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-195" target="ElJob3rPs2nKZKBBOf4i-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2070" y="-490" as="sourcePoint" />
+            <mxPoint x="2120" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-207" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-196" target="ElJob3rPs2nKZKBBOf4i-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="-615" as="sourcePoint" />
+            <mxPoint x="2130" y="-665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="-605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-208" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="ElJob3rPs2nKZKBBOf4i-199">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1860" y="-665" as="sourcePoint" />
+            <mxPoint x="2130" y="-665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="-605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-209" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-201" target="ElJob3rPs2nKZKBBOf4i-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2220" y="-475" as="sourcePoint" />
+            <mxPoint x="2270" y="-525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2210" y="-605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-210" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-201" target="ElJob3rPs2nKZKBBOf4i-202">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="-615" as="sourcePoint" />
+            <mxPoint x="2130" y="-665" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2210" y="-605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-211" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-196" target="ElJob3rPs2nKZKBBOf4i-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="-615" as="sourcePoint" />
+            <mxPoint x="1710" y="-505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-213">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1659.7142857142858" y="-355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-213" value="Список песен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-214" value="Песня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="-385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-215" value="Песня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="-625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-216" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-200" target="ElJob3rPs2nKZKBBOf4i-215">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="-615" as="sourcePoint" />
+            <mxPoint x="2280" y="-665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-217" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-201" target="ElJob3rPs2nKZKBBOf4i-214">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2230" y="-615" as="sourcePoint" />
+            <mxPoint x="2280" y="-665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-218" value="raw text&lt;br&gt;one string&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-860" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-219" value="/songs_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2237" y="-575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-220" value="/groups_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-221" value="/groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="-800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-222" value="/bookmarks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="-870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-223" value="/bookmark_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="-655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-224" value="/groups_{c}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-225" value="/gruop_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-226" value="/songs_{c}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-227" value="/song_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2327" y="-665" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-228" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-195" target="ElJob3rPs2nKZKBBOf4i-197">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="-660" as="sourcePoint" />
+            <mxPoint x="1870" y="-710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1630" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-229" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-195" target="ElJob3rPs2nKZKBBOf4i-230">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2400" y="-660" as="sourcePoint" />
+            <mxPoint x="2670" y="-995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-230" value="Добавление песни, или правка.&lt;div&gt;Первая строка:&lt;/div&gt;&lt;div&gt;group*name*flag&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="-900" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-231" value="raw text&lt;br&gt;in create/update&lt;div&gt;format&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="-880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-232" value="Песня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-233" value="/song_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="-415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-234" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-235" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-236" value="/delete_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-237" value="/delene_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="-415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-238" value="/songs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="-830" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-239" value="Редактировать" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="-325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-240" value="/edit_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="-265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-241" value="Редактировать" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-242" value="/edit_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-243" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-244" value="/html_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-245" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="-385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-246" value="/html_{n}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="-420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-247" value="song_html_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-302.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-248" value="song_edit_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-242.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-249" value="*source" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-32.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-250" target="ElJob3rPs2nKZKBBOf4i-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-250" value="*search" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="50" y="32.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-289" target="ElJob3rPs2nKZKBBOf4i-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-252" target="ElJob3rPs2nKZKBBOf4i-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-252" target="ElJob3rPs2nKZKBBOf4i-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-252" value="groups" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#336600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-427.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-253" target="ElJob3rPs2nKZKBBOf4i-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-253" value="group_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-192.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-262" target="ElJob3rPs2nKZKBBOf4i-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="57.5" />
+              <mxPoint x="350" y="-187.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-262" value="search_list" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="190" y="32.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-270" target="ElJob3rPs2nKZKBBOf4i-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="-77.5" />
+              <mxPoint x="350" y="-187.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-293" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-271">
+          <mxGeometry x="0.3771" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-270" value="group_songs" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-102.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#008a00;strokeColor=#336600;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-274" target="ElJob3rPs2nKZKBBOf4i-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="-262.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="-242.5" />
+              <mxPoint x="-50" y="-492.5" />
+              <mxPoint x="50" y="-492.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#008a00;strokeColor=#336600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.536;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-274" target="ElJob3rPs2nKZKBBOf4i-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-209" y="-242.5" />
+              <mxPoint x="-50" y="-242.5" />
+              <mxPoint x="-50" y="-402.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#008a00;strokeColor=#336600;exitX=0.571;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-274" target="ElJob3rPs2nKZKBBOf4i-249">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-207" y="-242.5" />
+              <mxPoint x="-50" y="-242.5" />
+              <mxPoint x="-50" y="-7.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#008a00;strokeColor=#336600;exitX=0.536;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-274" target="ElJob3rPs2nKZKBBOf4i-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-209" y="-242.5" />
+              <mxPoint x="-50" y="-242.5" />
+              <mxPoint x="-50" y="67.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-274" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;strokeColor=#336600;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#008a00;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-272.5" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-282" value="song_chords_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-182.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-286" value="song_delete_{id}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-122.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF66B3;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-288" target="ElJob3rPs2nKZKBBOf4i-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-288" value="groups_page_{index}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-337.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-289" value="groups_abc_{char}" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF66B3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-337.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-194" target="ElJob3rPs2nKZKBBOf4i-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-297" target="ElJob3rPs2nKZKBBOf4i-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-297" target="ElJob3rPs2nKZKBBOf4i-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-297" target="ElJob3rPs2nKZKBBOf4i-303">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-297" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-990" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-298" target="ElJob3rPs2nKZKBBOf4i-317">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-298" target="ElJob3rPs2nKZKBBOf4i-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-298" target="ElJob3rPs2nKZKBBOf4i-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-298" target="ElJob3rPs2nKZKBBOf4i-319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-298" value="Просмотр песни" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-299" target="ElJob3rPs2nKZKBBOf4i-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-299" target="ElJob3rPs2nKZKBBOf4i-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-299" value="Список групп" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-300" target="ElJob3rPs2nKZKBBOf4i-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-300" value="Список всех песен" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-301" target="ElJob3rPs2nKZKBBOf4i-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-301" value="Группы по алфавиту" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-895" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-302" target="ElJob3rPs2nKZKBBOf4i-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-302" value="Группы постранично" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-303" value="Апсет песни" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-304" value="Поиск" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-305" target="ElJob3rPs2nKZKBBOf4i-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-305" value="Все песни группы" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-297" target="ElJob3rPs2nKZKBBOf4i-300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-316" value="Удаление" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-317" value="Используемые аккорды" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-318" value="Вывод в HTML" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-319" value="Текст для редактирования" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-327" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-1340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-351" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-359" target="ElJob3rPs2nKZKBBOf4i-354">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570.0026044899657" y="-1519.996720838822" as="sourcePoint" />
+            <mxPoint x="688.7446038580745" y="-1588.0483450617564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-362" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-351">
+          <mxGeometry x="-0.1075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-352" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-355" target="ElJob3rPs2nKZKBBOf4i-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="-1170" as="sourcePoint" />
+            <mxPoint x="960" y="-1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-353" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-354" target="ElJob3rPs2nKZKBBOf4i-327">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="-1170" as="sourcePoint" />
+            <mxPoint x="960" y="-1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-354" value="Просмотр аккордов" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-1400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-355" value="Редактирование песни" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-1280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-358" value="Распределение по группам" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-1410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-359" value="Использование поиска" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-1520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-361" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-358" target="ElJob3rPs2nKZKBBOf4i-354">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680.0035380284847" y="-1265.6431651079959" as="sourcePoint" />
+            <mxPoint x="770.3024780101595" y="-1270.0001180004838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-363" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-361">
+          <mxGeometry x="-0.0884" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-364" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-1760" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-365" value="moderator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-1630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-370" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-1490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-371" value="HTML" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-372" value="Внесение изменений" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-1740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-373" value="Просмотр песни" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-1850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-375" value="markdown" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1753" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-376" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-371" target="ElJob3rPs2nKZKBBOf4i-373">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1560" as="sourcePoint" />
+            <mxPoint x="190" y="-1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-377" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-375" target="ElJob3rPs2nKZKBBOf4i-373">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1560" as="sourcePoint" />
+            <mxPoint x="190" y="-1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-378" value="Использование поиска" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-2030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-379" value="Распределение по группам" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-2010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-380" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" source="ElJob3rPs2nKZKBBOf4i-378" parent="1" target="ElJob3rPs2nKZKBBOf4i-373">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204.00260448996573" y="-1979.996720838822" as="sourcePoint" />
+            <mxPoint x="240" y="-1846" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-381" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-380">
+          <mxGeometry x="-0.1075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-382" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" source="ElJob3rPs2nKZKBBOf4i-379" parent="1" target="ElJob3rPs2nKZKBBOf4i-373">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314.00353802848474" y="-1725.6431651079959" as="sourcePoint" />
+            <mxPoint x="254" y="-1823" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-383" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-382">
+          <mxGeometry x="-0.0884" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-384" value="Подтверждение изменений" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-1630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-385" value="Установка ролей" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-417" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-372" target="ElJob3rPs2nKZKBBOf4i-364">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1570" as="sourcePoint" />
+            <mxPoint x="190" y="-1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-418" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-385" target="ElJob3rPs2nKZKBBOf4i-370">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-148" y="-1701" as="sourcePoint" />
+            <mxPoint x="-230" y="-1717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-419" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-384" target="ElJob3rPs2nKZKBBOf4i-365">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-138" y="-1691" as="sourcePoint" />
+            <mxPoint x="-220" y="-1707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-420" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-373" target="ElJob3rPs2nKZKBBOf4i-364">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-128" y="-1681" as="sourcePoint" />
+            <mxPoint x="-210" y="-1697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-422" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-365">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1570" as="sourcePoint" />
+            <mxPoint x="-255" y="-1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-423" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-370">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1570" as="sourcePoint" />
+            <mxPoint x="-255" y="-1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-424" value="Получение текущего исходника" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-1650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-425" value="Отправка исправленного" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-426" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-372" target="ElJob3rPs2nKZKBBOf4i-425">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1690" as="sourcePoint" />
+            <mxPoint x="190" y="-1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-429" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-426">
+          <mxGeometry x="0.3796" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-427" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="ElJob3rPs2nKZKBBOf4i-372" target="ElJob3rPs2nKZKBBOf4i-424">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-1690" as="sourcePoint" />
+            <mxPoint x="190" y="-1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElJob3rPs2nKZKBBOf4i-428" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="ElJob3rPs2nKZKBBOf4i-427">
+          <mxGeometry x="-0.1389" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
